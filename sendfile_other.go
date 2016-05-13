@@ -1,4 +1,4 @@
-// +build !darwin,!dragonfly,!freebsd,!linux,!netbsd,!openbsd,!solaris
+// +build !cgo, !darwin,!dragonfly,!freebsd,!linux,!netbsd,!openbsd,!solaris
 
 package main
 
