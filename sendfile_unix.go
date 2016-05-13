@@ -1,4 +1,5 @@
 // +build darwin dragonfly freebsd linux netbsd openbsd solaris
+// +build cgo
 
 package main
 
